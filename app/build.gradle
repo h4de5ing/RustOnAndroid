@@ -7,8 +7,8 @@ plugins {
 //    module = "../hello/src"
 //    libname = "hello"
 ////    prebuiltToolchains = true
-////    pythonCommand = "python3"
-//    targets = ["arm64"]
+//    pythonCommand = "python3"
+//    targets = ["arm","arm64"]
 ////  profile = "release"
 //    profile = "debug"
 //}
