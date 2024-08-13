@@ -1,2 +1,5 @@
-package com.nishtahir.androidrust;public class JNICallback {
+package com.nishtahir.androidrust;
+
+public interface JNICallback {
+    void callback(String string);
 }

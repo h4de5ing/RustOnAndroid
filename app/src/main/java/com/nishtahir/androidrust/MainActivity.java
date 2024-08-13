@@ -1,8 +1,8 @@
 package com.nishtahir.androidrust;
 
-class MainActivity {
+public class MainActivity {
     static {
-        System.loadLibrary("rust");
+        System.loadLibrary("hello");
     }
 
     public static native void invokeCallbackViaJNI(JNICallback callback);
